@@ -42,3 +42,21 @@ section h4 {
     color: #fff;
     font-size: 2em;
 }
+
+#github {
+    height: 35px;
+    width: 35px;
+    position: absolute;
+    object-fit: fill;
+    margin-top: 30em;
+    margin-left: 5em;
+}
+
+#twitter {
+    height: 35px;
+    width: 35px;
+    position: absolute;
+    object-fit: fill;
+    margin-top: 30em;
+    margin-left: -5em;
+}

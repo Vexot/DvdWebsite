@@ -1,7 +1,9 @@
+const selectors = ['.layer', '#github', '#twitter']
+
 document.addEventListener("mousemove", parallax);
 
 function parallax(e) {
-    this.querySelectorAll('.layer').forEach(Layer => {
+    this.querySelectorAll(selectors).forEach(Layer => {
         const speed = Layer.getAttribute('data-speed');
 
         const x = (window.innerWidth - e.pageX * speed) / 100;
