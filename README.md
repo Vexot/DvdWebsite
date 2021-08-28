@@ -11,6 +11,6 @@ It will have more features in the future. Thanks for seeing my horripilant code 
 
 <img width=50% height=50% src="https://user-images.githubusercontent.com/75691650/130990362-c1068b87-97a8-49bc-b356-19f375aa92c8.png">
 
-###### Btw, it is in spanish because I'm Mexican lol
+###### My first ever project.
 
 
