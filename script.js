@@ -1,4 +1,4 @@
-const selectors = ['.layer', '#github', '#twitter']
+const selectors = ['.layer', '#github', '#twitter', '#roblox', '#discord']
 
 document.addEventListener("mousemove", parallax);
 
