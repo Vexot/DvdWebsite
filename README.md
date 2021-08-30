@@ -4,7 +4,7 @@
 
 ### A website I designed as personal project following some tutorials and trying over and over again
 
-Pretty simple, and pretty cool lol
+Pretty simple yet pretty cool lol
 
 It will have more features in the future. Thanks for seeing my horripilant code lol.
 
