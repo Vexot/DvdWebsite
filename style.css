@@ -30,25 +30,25 @@ section img {
     object-fit: cover;
 }
 
-section h2 {
-    margin-top: 15em;
-    position: relative;
+section h1 {
+    position: absolute;
     color: #fff;
     font-size: 12em;
 }
 
 section h4 {
-    margin-top: 20em;
+    margin-top: 7em;
     position: absolute;
     color: #fff;
     font-size: 2em;
 }
 
 section h5 {
-    margin-top: 25em;
+    margin-top: 20em;
     position: absolute;
     color: #fff;
     font-size: 1em;
+    text-align: center;
 }
 
 #github {
