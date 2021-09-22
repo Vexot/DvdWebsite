@@ -52,38 +52,26 @@ section h5 {
 	text-align: center;
 }
 
-#github {
-	height: 32px;
-	width: 33px;
+.socials {
+	height: 35px;
+	width: 35px;
 	position: absolute;
 	object-fit: fill;
 	margin-top: 30em;
+}
+
+#github {
 	margin-left: 12em;
 }
 
 #twitter {
-	height: 29px;
-	width: 36px;
-	position: absolute;
-	object-fit: fill;
-	margin-top: 30em;
 	margin-left: -12em;
 }
 
 #roblox {
-	height: 33px;
-	width: 33px;
-	position: absolute;
-	object-fit: fill;
-	margin-top: 30em;
 	margin-left: -4em;
 }
 
 #discord {
-	height: 27px;
-	width: 36px;
-	position: absolute;
-	object-fit: fill;
-	margin-top: 30em;
 	margin-left: 4em;
 }
