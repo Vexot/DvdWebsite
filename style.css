@@ -34,21 +34,26 @@ section h1 {
 	top: 120px;
 	position: absolute;
 	color: #fff;
-	font-size: 12em;
+	text-align: center;
+	font-size: calc(4.73em + 12vmin);
 }
 
 section h4 {
+	margin-left: 1vw;
+	margin-right: 1vw;
 	top: 11em;
 	position: absolute;
+	text-align: center;
 	color: #fff;
-	font-size: 2em;
+	font-size: calc(1.4em + 1vmin);
 }
 
 section h5 {
+	margin: 1vw;
 	margin-top: 29em;
 	position: absolute;
 	color: #fff;
-	font-size: 1em;
+	font-size: calc(.88em + .2vmin);
 	text-align: center;
 }
 
